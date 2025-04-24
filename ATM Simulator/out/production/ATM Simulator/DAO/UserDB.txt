@@ -1,0 +1,4 @@
+{"username":"sad","pin":1111,"balance":0.0}
+{"username":"asdasdas","pin":1111,"balance":0.0}
+{"username":"nikk","pin":2218,"balance":0.0}
+{"username":"sanek","pin":1234,"balance":1711.0}
